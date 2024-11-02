@@ -1,16 +1,14 @@
-## Hi there 👋
+## gm! I'm plonukob
 
-<!--
-**plonukob/plonukob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a web3 developer creating dev tools (special ZK)
 
-Here are some ideas to get you started:
+## web3 work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I 🫶🏼 the energy of hackathons. I've entered EthOnline 2021, most recently building Wallet OTP, a decentralized 2FA app. I mentor web3 builders at hackathons, helping them build useful web3 products all over the world
+
+I worked at Polygon Labs, the development and growth team for [Polygon](https://beta.polygon.technology/) and Polygon zkEVM  
+
+
+## web2 work
+
+👻 Before web3, I was a software developer at Amazon, AWS, SONY, and a few startups. I went full time in web3 during covid after realizing I was spending most of my time exploring and building in the crypto space.
